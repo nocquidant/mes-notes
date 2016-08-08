@@ -21,7 +21,7 @@ Tips : ne plus utiliser les tabs.
 * ctrl+E : recent files
 * ctrl+shift+E : recent edited files
 
-* create new files :
+* alt + insert : create new files (depuis la barre de navigation ou fenetre projet)
 
 * ctrl + w : select a word
 * alt+j : select all occurences
