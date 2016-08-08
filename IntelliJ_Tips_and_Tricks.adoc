@@ -12,6 +12,27 @@ Un conseil ne plus utiliser les tabs.
 * ctrl+E : recent files
 * ctrl+shift+E : recent edited files
 
+* alt + 1 : project windows (open/close)
+* esc : source
+
+* create new files :
+
+* ctrl + shift + F12 : hide all windows
+
+* ctrl + w : select a word
+* alt+j : select all occurences
+
+* ctrl + n : look for classes
+* ctrl + shift + n : look for files
+* ctrl + shift + alt + n : look for symbols
+
+* inject language reference :
+
+* ctrl + shift + space : smart completion (à utiliser en priorité)
+
+
+
+
 == Inspection
 
 == VCS
