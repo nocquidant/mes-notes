@@ -1,0 +1,22 @@
+= 42 IntelliJ IDEA Tips and Tricks
+
+https://www.youtube.com/watch?v=eq3KiAH4IBI
+
+Un conseil ne plus utiliser les tabs.
+
+== Navigation
+
+* double shift : search everywhere 
+** les derniers fichiers, les ouverts en premier
+
+* ctrl+E : recent files
+* ctrl+shift+E : recent edited files
+
+== Inspection
+
+== VCS
+
+== Debug
+
+== Refactor
+
