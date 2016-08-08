@@ -6,8 +6,6 @@ Tips : ne plus utiliser les tabs.
 
 * shift + ctrl + a : find actions, si on ne se rappelle plus du raccourci
 
-== Navigation
-
 * double shift : search everywhere 
 ** les derniers fichiers, les ouverts en premier
 
