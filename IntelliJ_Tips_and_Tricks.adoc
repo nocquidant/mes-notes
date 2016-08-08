@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=eq3KiAH4IBI
 
 Tips : ne plus utiliser les tabs.
 
+== Divers
+
 * shift + ctrl + a : find actions, si on ne se rappelle plus du raccourci
 * double shift : search everywhere 
 ** les derniers fichiers, les ouverts en premier
