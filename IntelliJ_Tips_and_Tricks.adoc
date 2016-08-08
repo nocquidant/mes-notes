@@ -5,35 +5,32 @@ https://www.youtube.com/watch?v=eq3KiAH4IBI
 Tips : ne plus utiliser les tabs.
 
 * shift + ctrl + a : find actions, si on ne se rappelle plus du raccourci
-
 * double shift : search everywhere 
 ** les derniers fichiers, les ouverts en premier
 
-* ctrl+E : recent files
-* ctrl+shift+E : recent edited files
-
 * alt + 1 : project windows (open/close)
-* esc : source
-
-* create new files :
-
+* esc : go back to editor
 * ctrl + shift + F12 : hide all windows
 
-* ctrl + w : select a word
-* alt+j : select all occurences
+* ctrl + shift + space : smart completion (à utiliser en priorité)
 
 * ctrl + n : look for classes
 * ctrl + shift + n : look for files
 * ctrl + shift + alt + n : look for symbols
 
-* inject language reference (edition JSON...) :
+* ctrl+E : recent files
+* ctrl+shift+E : recent edited files
 
-* ctrl + shift + space : smart completion (à utiliser en priorité)
+* create new files :
+
+* ctrl + w : select a word
+* alt+j : select all occurences
+
+* inject language reference (edition JSON...) :
 
 * ctrl + p : parameter infos (inutile de revenir au début pour demander la completion)
 
 * ctrl + j : la liste des templates (psvm...)
-
 * ctrl + alt + t : surround with
 
 == Navigation
@@ -52,7 +49,11 @@ Tips : desactiver la nav bar et l'invoquer avec alt+home
 
 == VCS
 
-* ctrl + k : commit
+* Ctrl + K : Commit project to VCS 
+* Ctrl + T : Update project from VCS 
+* Alt + Shift + C : View recent changes 
+* Alt + BackQuote (`) : VCS quick popup
+
 * select 2 things puis ctrl + D
 * shift + ctrl + a, puis annotate : qui a fait les changements
 
@@ -67,9 +68,3 @@ Tips : show refering objects
 == Refactor
 
 * shift + ctrl + alt + t : menu et choisir (note : pas contextuel)
-
-* Ctrl + K : Commit project to VCS 
-* Ctrl + T : Update project from VCS 
-* Alt + Shift + C : View recent changes 
-* Alt + BackQuote (`) : VCS quick popup
-
