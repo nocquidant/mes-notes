@@ -2,7 +2,9 @@
 
 https://www.youtube.com/watch?v=eq3KiAH4IBI
 
-Un conseil ne plus utiliser les tabs.
+Tips : ne plus utiliser les tabs.
+
+* shift + ctrl + a : find actions, si on ne se rappelle plus du raccourci
 
 == Navigation
 
@@ -26,18 +28,50 @@ Un conseil ne plus utiliser les tabs.
 * ctrl + shift + n : look for files
 * ctrl + shift + alt + n : look for symbols
 
-* inject language reference :
+* inject language reference (edition JSON...) :
 
 * ctrl + shift + space : smart completion (à utiliser en priorité)
 
+* ctrl + p : parameter infos (inutile de revenir au début pour demander la completion)
 
+* ctrl + j : la liste des templates (psvm...)
 
+* ctrl + alt + t : surround with
+
+== Navigation
+
+* ctrl + alt + b : les implémentations
+* ctrl + h : type hierarchy
+* ctrl + shift + h : method hierarchy
+* ctrl + F12 : popup de la structure
+
+Tips : desactiver la nav bar et l'invoquer avec alt+home
 
 == Inspection
 
+* structural search : peut etre utile (plus simple que les regexp)
+* analysis menu, puis choix metrics (plugin : metrics reloaded)
+
 == VCS
+
+* ctrl + k : commit
+* select 2 things puis ctrl + D
+* shift + ctrl + a, puis annotate : qui a fait les changements
+
+Depuis les annotations selectionner le revision number puis le copier dans filter de le fenetre des logs
 
 == Debug
 
+Tips : show refering objects
+
+* shift + ctrl + a : evaluate expression
+
 == Refactor
+
+* shift + ctrl + alt + t : menu et choisir (note : pas contextuel)
+
+* Ctrl + K : Commit project to VCS 
+* Ctrl + T : Update project from VCS 
+* Alt + Shift + C : View recent changes 
+* Alt + BackQuote (`) : VCS quick popup
 
