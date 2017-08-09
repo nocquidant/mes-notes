@@ -1,3 +1,5 @@
+:blank: pass:[ +]
+
 = 42 IntelliJ IDEA Tips and Tricks
 
 https://www.youtube.com/watch?v=eq3KiAH4IBI
@@ -9,7 +11,7 @@ Tips : ne plus utiliser les tabs :)
 * shift + ctrl + a : find actions, si on ne se rappelle plus du raccourci
 * double shift : search everywhere 
 ** les derniers fichiers sont ouverts en premier
-
+{blank}
 * alt + 1 : project windows (open/close)
 * esc : go back to editor
 * ctrl + shift + F12 : hide all windows
