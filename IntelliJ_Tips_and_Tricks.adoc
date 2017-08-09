@@ -42,6 +42,7 @@ Tips : ne plus utiliser les tabs :)
 * ctrl + h : type hierarchy
 * ctrl + shift + h : method hierarchy
 * ctrl + F12 : popup de la structure
+* ctrl + B : navigate to the declaration
 
 Tips : desactiver la nav bar et l'invoquer avec alt+home
 
